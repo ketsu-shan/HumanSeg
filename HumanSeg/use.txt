@@ -1,0 +1,3 @@
+pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple/
+python -m pip install paddlepaddle==1.8.5 -i https://mirror.baidu.com/pypi/simple
+https://github.com/PaddlePaddle/PaddleSeg/tree/release/v0.4.0/contrib
